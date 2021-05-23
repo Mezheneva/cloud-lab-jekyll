@@ -1,0 +1,5 @@
+version: 0.0
+os: linux
+files: 
+  - source: jekyll-site
+    destination: /home/ubuntu/jekyll
